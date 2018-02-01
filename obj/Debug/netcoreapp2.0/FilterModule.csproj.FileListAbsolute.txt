@@ -1,0 +1,10 @@
+C:\DEV\Projects\IoTEdge\FilterModule\obj\Debug\netcoreapp2.0\FilterModule.csproj.CoreCompileInputs.cache
+C:\DEV\Projects\IoTEdge\FilterModule\obj\Debug\netcoreapp2.0\FilterModule.AssemblyInfoInputs.cache
+C:\DEV\Projects\IoTEdge\FilterModule\obj\Debug\netcoreapp2.0\FilterModule.AssemblyInfo.cs
+c:\DEV\Projects\IoTEdge\FilterModule\bin\Debug\netcoreapp2.0\FilterModule.deps.json
+c:\DEV\Projects\IoTEdge\FilterModule\bin\Debug\netcoreapp2.0\FilterModule.runtimeconfig.json
+c:\DEV\Projects\IoTEdge\FilterModule\bin\Debug\netcoreapp2.0\FilterModule.runtimeconfig.dev.json
+C:\DEV\Projects\IoTEdge\FilterModule\bin\Debug\netcoreapp2.0\FilterModule.dll
+C:\DEV\Projects\IoTEdge\FilterModule\bin\Debug\netcoreapp2.0\FilterModule.pdb
+C:\DEV\Projects\IoTEdge\FilterModule\obj\Debug\netcoreapp2.0\FilterModule.dll
+C:\DEV\Projects\IoTEdge\FilterModule\obj\Debug\netcoreapp2.0\FilterModule.pdb
